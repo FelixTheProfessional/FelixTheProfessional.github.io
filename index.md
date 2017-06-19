@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/FelixTheProfessional/testP
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-"title: Welcome to Felix's homepage!
+"Welcome to Felix's homepage!
 Feel free to bookmark this to keep an eye on my project updates”
 
 ### Markdown
