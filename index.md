@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 "Welcome to Felix's homepage!
 Feel free to bookmark this to keep an eye on my project updates”
 
-[image of Jayvon] (http://vignette4.wikia.nocookie.net/zelda/images/5/5f/Deku_Link_Artwork.png/revision/latest?cb=20111030135454)
+![image of Jayvon] (http://vignette4.wikia.nocookie.net/zelda/images/5/5f/Deku_Link_Artwork.png/revision/latest?cb=20111030135454)
 
 ### Markdown
 
